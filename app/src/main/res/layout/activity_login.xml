@@ -21,14 +21,14 @@
             android:layout_width="55dip"
             android:layout_height="55dip"
             android:layout_gravity="center_horizontal"
-            android:src="@mipmap/project_detail_cir" />
+            android:src="@mipmap/fjnu" />
 
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dip"
             android:gravity="center"
-            android:text="FIREFLY FOREST"
+            android:text="FJNU Ordering"
             android:textColor="#ffffff"
             android:textSize="24sp" />
 
@@ -36,26 +36,27 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="SHOW YOUR IDEAS"
+            android:text="内部订餐系统"
             android:textColor="#ffffff"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            />
     </LinearLayout>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true" >
+        android:layout_marginTop="170dp">
 
         <include
             android:id="@+id/input_layout"
             android:layout_width="match_parent"
-            android:layout_height="130dip"
+            android:layout_height="210dip"
             layout="@layout/input_layout" />
 
         <include
             android:id="@+id/layout_progress"
             android:layout_width="match_parent"
-            android:layout_height="130dip"
+            android:layout_height="220dip"
             layout="@layout/layout_progress"
             android:visibility="gone" />
 
@@ -65,7 +66,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/input_layout"
             android:layout_centerInParent="true"
-            android:layout_marginTop="15dip"
+            android:layout_marginTop="20dip"
             android:background="@drawable/text_bg"
             android:gravity="center"
             android:paddingBottom="2dip"

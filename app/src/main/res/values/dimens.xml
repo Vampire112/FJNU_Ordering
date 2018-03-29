@@ -20,5 +20,5 @@
     <dimen name="width_size_100">100dp</dimen>
     <dimen name="width_size_240">240dp</dimen>
     <dimen name="width_size_280">280dp</dimen>
-    <dimen name="text_margin">16dp</dimen>
+
 </resources>
