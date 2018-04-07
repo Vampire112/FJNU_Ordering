@@ -31,7 +31,8 @@
                 android:background="#00000000"
                 android:hint="学号/教工号/root"
                 android:padding="5dip"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                android:id="@+id/login_username"/>
 
         </LinearLayout>
 
@@ -62,7 +63,8 @@
                 android:hint="密码"
                 android:inputType="textPassword"
                 android:padding="5dip"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                android:id="@+id/login_pwd"/>
         </LinearLayout>
         <View
             android:layout_width="match_parent"
@@ -89,6 +91,7 @@
                 android:text="个人用户"
                 android:textColor="@color/theme_blue_two"
                 android:textSize="@dimen/font_size_18"
+                android:checked="true"
                 />
 
             <RadioButton

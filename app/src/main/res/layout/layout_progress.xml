@@ -11,13 +11,21 @@
         android:layout_margin="20dip"
         android:background="@drawable/rotate_layout_bg"
         android:orientation="vertical"
-        android:padding="10dip" >
-
+        android:padding="10dip"
+        android:id="@+id/wait_dialog">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="正在登录，请稍后..."
+            android:textColor="@color/theme_blue_two"
+            android:textSize="20dp"
+            android:id="@+id/dialog_text"/>
         <ProgressBar
             android:id="@+id/progressBar2"
             android:layout_width="wrap_content"
              android:layout_margin="10dip"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
     </LinearLayout>
 
 </LinearLayout>

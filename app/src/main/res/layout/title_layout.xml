@@ -15,6 +15,7 @@
         android:layout_centerVertical="true"
         android:textSize="20sp"
         android:text="注册"
+        android:id="@+id/register"
         
         />
     
