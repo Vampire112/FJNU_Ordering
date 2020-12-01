@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:03:47.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="cdLcKTIs-qCOzdhfI1dG" version="13.10.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-01T14:04:50.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-sKwRf63sNsvs6wWUQgr" version="13.10.5" type="github" pages="2">
   <diagram id="l_VRbaYY5x8nG968U9lK" name="Page-1">
     <mxGraphModel dx="593" dy="313" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -461,7 +461,7 @@
         <mxCell id="0h0BreGhWC6YS8RpV6lA-100" value="Dropout&lt;br&gt;+&lt;br&gt;FC layers" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;labelBackgroundColor=none;fontStyle=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1297" y="303.5" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0h0BreGhWC6YS8RpV6lA-101" value="Output" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;" parent="1" vertex="1">
+        <mxCell id="0h0BreGhWC6YS8RpV6lA-101" value="Output" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fillColor=#B3B3B3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1392" y="272.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0h0BreGhWC6YS8RpV6lA-102" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;shadow=0;strokeColor=#666666;fillColor=#B3B3B3;" parent="1" vertex="1">
